@@ -9,7 +9,9 @@ var professionDictionary = {
   "👨‍🌾": "Farmer ",
   "👨‍💻": "Technologist ",
   "👨‍🚀": "Astronaut ",
-  "👮": "Police "
+  "👮": "Police ",
+  "👨‍🎨": "Artist",
+  "👨🏻‍🔧": "Mechanic"
 };
 var professionWeKnow = Object.keys(professionDictionary);
 export default function App() {
